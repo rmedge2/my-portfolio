@@ -1,5 +1,5 @@
 import React from 'react';
-import './WorkCard.css';
+// import './WorkCard.css';
 import WorkCard from './WorkCard';
 import ProjectCardData from './WorkCardData';
 
