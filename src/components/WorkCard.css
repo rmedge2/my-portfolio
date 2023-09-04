@@ -16,6 +16,7 @@
 
 .project-details p{
     width: 100%;
+
 }
 
 .project-title{
@@ -38,3 +39,8 @@
     text-align: center;
 }
 
+@media only screen and (min-width: 990px){
+    .project-container{
+        width: 800px;
+    }
+}

@@ -1,4 +1,6 @@
 import pro1 from "../assets/Netflix-and-Grill.png";
+import pro2 from "../assets/Upside-Frontend.png";
+import pro3 from "../assets/Budget-Lingo-Frontend.png"
 
 const ProjectCardData = [
     {
@@ -9,14 +11,14 @@ const ProjectCardData = [
         repo: 'https://github.com/rmedge2/netflix-and-grill'
     },
     {
-        imgsrc: pro1,
+        imgsrc: pro2,
         title: "Upside",
         text: "Upside is a another bootcamp project, this one being a full-stack applicaiton that seems to have some issues right now. However, the premis of the app is to allow anyone to find a licensed therapist at any time of day.",
         site: "https://upside.onrender.com/",
         repo: 'https://github.com/rmedge2/Upside-FrontEnd/'
     },
     {
-        imgsrc: pro1,
+        imgsrc: pro3,
         title: "Budget Lingo",
         text: "Budget Lingo is a full-stack application built for the average joe who wants to learn how to manage their own finances.",
         site: "https://budget-lingo.onrender.com/splashscreen",
