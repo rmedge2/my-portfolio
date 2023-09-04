@@ -9,12 +9,12 @@ const WorkCard = (props) => {
             <div className='project-card'>
                 <img src={props.imgsrc} alt="image"/>
                 <h2 className="project-title">{props.title}</h2>
-                <div className='pro-details'>
+                <div className='project-details'>
                     <p>{props.text}</p>
                 </div>
                 <div className='pro-btns2'>
-                    <NavLink to={props.view} className='btn'>View</NavLink>
-                    <NavLink to={props.source} className='btn'>Source</NavLink>
+                    <NavLink to={props.site} className='btn'>Site</NavLink>
+                    <NavLink to={props.repo} className='btn'>Github</NavLink>
                 </div>
             </div>
         </div>
