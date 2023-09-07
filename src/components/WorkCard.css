@@ -4,11 +4,10 @@
     max-width: 90%;
 }
 
-/* .project-card{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-} */
+.project-card{
+    /* background-color: gray; */
+    margin-bottom: 2cm;
+}
 
 .project-card img{
     width: 100%;
