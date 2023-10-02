@@ -10,7 +10,7 @@ const Projects = () => {
     <div>
       <Navbar />
       <HeroImg2 heading="PROJECTS" text=""/>
-      <Work/>
+      <Work />
       <Footer />
     </div>
   )
