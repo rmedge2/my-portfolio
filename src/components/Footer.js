@@ -25,7 +25,7 @@ const Footer = () => {
 
                 <div className='right'>
                     <h4>About the software developer</h4>
-                    <p>This is Rodney Edge, Jr. I am the owner of this portfolio and I like new projects.</p>
+                    <p>This is Rodney Edge, Jr. I am the owner of this portfolio. I will occasionally update with new projects.</p>
                     <div className='social'>
                         <FaGithub size={30} style={{ color: "#fff", marginRight: "2rem" }} />
                         <FaLinkedin size={30} style={{ color: "#fff", marginRight: "2rem" }} />
