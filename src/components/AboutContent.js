@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import "./AboutContent.css"
-import Management from "../assets/management-software.jpg"
-import Organized from "../assets/organized-productivity.jpg"
+import BASS from "../assets/Bass_Face.JPEG"
+import Headshot from "../assets/Headshot.JPG"
 
 import React from 'react'
 
@@ -21,10 +21,10 @@ const AboutContent = () => {
             <div className="right">
                 <div className="img-container">
                     <div className="img-stack top">
-                        <img src={Management} className="img" alt="true" />
+                        <img src={Headshot} className="img" alt="true" />
                     </div>
                     <div className="img-stack bottom">
-                        <img src={Organized} className="img" alt="true" />
+                        <img src={BASS} className="img" alt="true" />
                     </div>
                 </div>
             </div>
