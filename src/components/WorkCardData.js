@@ -13,7 +13,7 @@ const ProjectCardData = [
     {
         imgsrc: pro2,
         title: "Upside",
-        text: "Upside is a another bootcamp project, this one being a full-stack applicaiton that seems to have some issues right now. However, the premise of the app is to allow anyone to find a licensed therapist at any time of day.",
+        text: "Upside is a another bootcamp project, this one being a full-stack application that seems to have some issues right now. However, the premise of the app is to allow anyone to find a licensed therapist at any time of day.",
         site: "https://upside.onrender.com/",
         repo: 'https://github.com/rmedge2/Upside-FrontEnd/'
     },
