@@ -6,8 +6,8 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Netflix and Grill",
-        text: "Netflix & Grill is a date night idea. The premise of the date includes a couple that decides to cook a meal together, and then watch a movie. The app will then generate 3 recipe options (with links to the recipes) alongside 3 movie options (with links to the movie previews)",
-        site: "https://rmedge2.github.io/netflix-and-grill/",
+        text: "Netflix & Grill is a date night idea. The premise of the date includes a couple that decides to cook a meal together, and then watch a movie. The app will then generate 3 recipe options (with links to the recipes) alongside 3 movie options (with links to the movie previews). The site is currently not working, but I'm hoping to have it back up in the near future.",
+        site: "https://netflix-and-grill-ah5m.onrender.com/",
         repo: 'https://github.com/rmedge2/netflix-and-grill'
     },
     {
@@ -21,7 +21,7 @@ const ProjectCardData = [
         imgsrc: pro3,
         title: "Budget Lingo",
         text: "Budget Lingo is a full-stack application built for the average joe who wants to learn how to manage their own finances.",
-        site: "https://budget-lingo.onrender.com/mainpage",
+        site: "https://budget-lingo.onrender.com/",
         repo: 'https://github.com/rmedge2/Budget-lingo_frontend'
     }
 ]
